@@ -19,6 +19,7 @@ Sudoku has gained widespread popularity as a pencil-and-paper puzzle and is also
 
 Sudoku tournaments, competitions, and championships are organized globally, and enthusiasts often compete to solve puzzles in the shortest time or with the highest accuracy. Additionally, Sudoku variants with different grid sizes, shapes, and rule modifications have been created to add diversity to the puzzle-solving experience.
 The basic UI of my java application includes 
+
 ![image](https://github.com/KondaShriya/SUDOKU/assets/99605851/4f1d7ac6-12f1-4220-98a2-5aff65292561)
 
 
